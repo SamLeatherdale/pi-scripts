@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Home Assistant Autostart
+Comment=Auto-start Chromium to Home Assistant dashboard in fullscreen
+Exec=/home/pi/pi-scripts/autostart-ha.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+StartupNotify=false
+Terminal=false

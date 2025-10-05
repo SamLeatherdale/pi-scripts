@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Set display resolution
+Comment=Set the display resolution on session start
+Exec=/home/pi/pi-scripts/resolution.sh
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Terminal=false
